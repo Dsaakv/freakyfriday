@@ -73,7 +73,7 @@ body{
     border:none;
     padding:3px 0 3px 10px;
     font-size: 1.2em;
-    background-image:url("../Images/search.png");
+    background-image:url("./Images/search.png");
     background-repeat: no-repeat;
     background-position: right center;
 }
@@ -137,7 +137,7 @@ h1{
 }
 
 .video{
-    background-image:url("../Images/arrow.PNG");
+    background-image:url("./Images/arrow.PNG");
     background-repeat: no-repeat;
     background-position: left center;
     padding-left: 35px;
