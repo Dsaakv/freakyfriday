@@ -1,1 +1,193 @@
+body{
+    margin-top:-20px;
+    margin-left:-20px;
+    margin-right:-20px;
+    padding:0;
+    font-family:verdana,helvetica,arial,sans-serif;
+}
 
+.fixedwidth{
+    width:1150px;
+    margin:0 auto;
+}
+.fixedwidth2{
+    width:1150px;
+    margin:0 auto;
+}
+#navbar{
+    float:left;
+    background-color: #7a0000;
+    width:100%;
+    margin:0;
+}
+
+#logo{
+    position:relative;
+    top:10px;
+}
+
+#Signinn{
+    font-weight: bold;
+    padding:6px 80px 0 10px;
+    font-size: 0.9em;
+    float:left;
+}
+#Signinn img{
+    position:relative;
+    top:6px;
+}
+
+#Signinn a {
+    Margin:10px;
+    color:white;
+    text-decoration: none;
+}
+#Signinn a:hover{
+    text-decoration: underline;
+}
+
+#textbar{
+  position:relative;
+    top:30px;
+    left:130px;
+}
+
+#textbar a{
+    color:white;
+    text-decoration: none;
+}
+
+#textbar a:hover{
+    text-decoration: underline;
+}
+
+#searchbar{
+    position:relative;
+    left: 750px;
+    top:5px;
+
+}
+
+#searchbar input{
+    height:25px;
+    border:none;
+    padding:3px 0 3px 10px;
+    font-size: 1.2em;
+    background-image:url("../Images/search.png");
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+.date{
+    font-weight: bold;
+}
+
+h1{
+    color:#1f4f82;
+    font-size:2.5em;
+}
+#headline2 h1{
+    position:absolute;
+    top:700px;
+
+}
+
+
+.headlineimage{
+    float:left;
+}
+
+.headlineimage2{
+    position:absolute;
+    top:800px;
+    right:900px;
+}
+
+.newsitem{
+    position:relative;
+    left:10px;
+    width:280px;
+    top:-5px;
+    float:left;
+    font-size: 1.1em;
+    padding-left:5px;
+}
+
+.newsitem a{
+    color:#1F4F82;
+    text-decoration:none;
+}
+
+.newsitem a:hover {
+    text-decoration:underline;
+}
+
+.newsitem2{
+    position:relative;
+    top:600px;
+    right:250px;
+    font-size: 1.1em;
+}
+.newsitem2 a{
+    color:#1F4F82;
+    text-decoration:none;
+}
+.newsitem2 a:hover {
+    text-decoration:underline;
+}
+
+.video{
+    background-image:url("../Images/arrow.PNG");
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 35px;
+}
+
+.links{
+    line-height:2.3em;
+}
+.menu{
+    color:#1F4F82;
+    text-decoration: none;
+}
+
+.sidebar{
+    height:500px;
+    width:260px;
+    position:relative;
+    left:940px;
+    top:-500px;
+    background-color:#7a0000;
+
+}
+
+.sidebar h2{
+    color:white;
+    padding-left:20px;
+}
+
+.sidebar li{
+    color: white;
+    padding-top:10px;
+    line-height: 1.8em;
+    font-size:1.1em;
+}
+
+.sidebar a{
+    color:white;
+    text-decoration: none;
+}
+
+.sidebar a:hover{
+    text-decoration: underline;
+}
+
+footer{
+    position: relative;
+    left: 0;
+    bottom: -250px;
+    width: 100%;
+    background-color: #7a0000;
+    color: white;
+    text-align: center;
+}
