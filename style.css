@@ -162,14 +162,17 @@ h1{
 
 .sidebar h2{
     color:white;
-    padding-left:20px;
+    position:relative;
+    bottom:710px;
+    left:20px;
 }
 
 .sidebar li{
     color: white;
-    padding-top:10px;
-    line-height: 1.8em;
+    position:relative;
+    bottom:700px;
     font-size:1.1em;
+    line-height: 2em;
 }
 
 .sidebar a{
