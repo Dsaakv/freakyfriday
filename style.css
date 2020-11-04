@@ -98,9 +98,8 @@ h1{
 }
 
 .headlineimage2{
-    position:absolute;
-    top:800px;
-    right:900px;
+    float:left;
+    margin-top:140px;
 }
 
 .newsitem{
