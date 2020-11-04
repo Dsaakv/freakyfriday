@@ -99,7 +99,8 @@ h1{
 
 .headlineimage2{
     float:left;
-    margin-top:140px;
+    margin-bottom:100px;
+    margin-right:200px;
 }
 
 .newsitem{
@@ -187,8 +188,10 @@ h1{
 footer{
     position: relative;
     left: 0;
-    bottom: -250px;
+    bottom: -30px;
     width: 100%;
     background-color: #7a0000;
     color: white;
+    float:left;
+    padding-left:500px;
 }
