@@ -87,9 +87,7 @@ h1{
     font-size:2.5em;
 }
 #headline2 h1{
-    position:absolute;
-    top:700px;
-
+   float:left;
 }
 
 
